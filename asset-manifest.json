@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-ts-test/static/css/main.f222ce7f.css",
-    "main.js": "/react-ts-test/static/js/main.e4f70ec8.js",
-    "static/js/592.76a3ba05.chunk.js": "/react-ts-test/static/js/592.76a3ba05.chunk.js",
-    "index.html": "/react-ts-test/index.html",
-    "main.f222ce7f.css.map": "/react-ts-test/static/css/main.f222ce7f.css.map",
-    "main.e4f70ec8.js.map": "/react-ts-test/static/js/main.e4f70ec8.js.map",
-    "592.76a3ba05.chunk.js.map": "/react-ts-test/static/js/592.76a3ba05.chunk.js.map"
+    "main.css": "/supermacchan/react-ts-tailwind-template/static/css/main.f222ce7f.css",
+    "main.js": "/supermacchan/react-ts-tailwind-template/static/js/main.f327965a.js",
+    "static/js/592.76a3ba05.chunk.js": "/supermacchan/react-ts-tailwind-template/static/js/592.76a3ba05.chunk.js",
+    "index.html": "/supermacchan/react-ts-tailwind-template/index.html",
+    "main.f222ce7f.css.map": "/supermacchan/react-ts-tailwind-template/static/css/main.f222ce7f.css.map",
+    "main.f327965a.js.map": "/supermacchan/react-ts-tailwind-template/static/js/main.f327965a.js.map",
+    "592.76a3ba05.chunk.js.map": "/supermacchan/react-ts-tailwind-template/static/js/592.76a3ba05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f222ce7f.css",
-    "static/js/main.e4f70ec8.js"
+    "static/js/main.f327965a.js"
   ]
 }
